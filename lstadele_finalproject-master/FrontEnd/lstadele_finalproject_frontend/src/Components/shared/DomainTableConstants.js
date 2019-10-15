@@ -1,0 +1,8 @@
+//Constants for Domain Table
+
+export default {
+    DOMTAB_SELECT_ALL: 'DOMTAB_SELECT_ALL',
+    DOMTAB_CHANGE_PAGE: 'DOMTAB_CHANGE_PAGE',
+    DOMTAB_CHANGE_ROWS: 'DOMTAB_CHANGE_ROWS',
+
+}

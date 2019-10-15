@@ -1,0 +1,4 @@
+{
+    "gcApiUrl": "http://localhost:8080/",
+    "patientPath": "patients/"
+}
